@@ -67,9 +67,6 @@ function playRound() {
       playerAttack()
     }
   }
-  // } else {
-    // console.log("Error! number should be 0 or 1.")
-  // }
   //if player goes first, run playerAttack, then if monsterHealth > 0, run monsterAttack
 
   //if monster goes first, run monsterAttack, then if playerHealth > 0, run playerAttack 
